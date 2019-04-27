@@ -1,0 +1,26 @@
+.container {
+    max-width: 200px;
+    width: 100%;    
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.button {
+    text-decoration: none;
+    background: blue;
+    color: white;
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 5px;
+}
+
+.button:hover {
+    color: lightblue;
+}
+
+.stopwatch {
+    margin-top: 10px;
+    font-size: 20px;
+}
